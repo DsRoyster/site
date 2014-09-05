@@ -1,0 +1,119 @@
+.acttext {
+	width: 650px;
+}
+
+.acttext .col1 {
+	margin: 10px 10px 10px 10px;
+	width: 120px;
+	float:left;
+}
+
+.acttext .col2 {
+	margin: 10px 10px 10px 10px;
+	font-weight:bold;
+	width: 610px;
+}
+
+.acttext .col3 {
+	margin: 10px 10px 10px 10px;
+	width: 610px;
+	line-height: 22px;
+}
+
+.menuitem {
+	margin-left:15px;
+}
+
+.CtItem td {
+	height: 60px;
+	border: gray solid thin;
+}
+
+.CtItem p {
+	margin: auto auto auto 10px	;
+}
+
+.CtCol1 {
+	width: 100px;
+}
+
+#menu a {
+	text-decoration: none;
+    line-height: 32px;
+}
+
+.item {
+	margin: 10px;
+}
+
+.StudyItem {
+	border: #0000C6 solid 2px;
+}
+.StudyItem .col2 {
+	color: #0000C6;
+}
+
+.SystemItem {
+	border: #B766AD solid 2px;
+}
+.SystemItem .col2 {
+	color: #B766AD;
+}
+
+.ResearchItem {
+	border: #BB3D00 solid 2px;
+}
+.ResearchItem .col2 {
+	color: #BB3D00;
+}
+
+.PersonalItem {
+	border: #007500 solid 2px;
+}
+.PersonalItem .col2 {
+	color: #007500;
+}
+
+.AllItem {
+	border: #000000 solid 2px;
+}
+.AllItem .col2 {
+	color: #000000;
+}
+
+.ImportantItem {
+	border: red solid 2px;
+}
+.ImportantItem .col2 {
+	color: red;
+}
+
+.ActivityItems {
+	float:left; 
+	margin:10px 10px auto 10px; 
+	width:106px;
+}
+
+.ResEmph {
+	color:#EA0000;
+}
+
+.MyIndent {
+	text-indent:2em;
+}
+
+.PicFrame {
+	text-align: center;
+}
+
+.PicFrame div {
+	margin-left:auto;
+	margin-right:auto;
+	padding: 10px 10px 10px 10px;
+	font-weight: bold;
+	border:gray solid thin; 
+}
+
+.PicFrame img {
+	margin-bottom:10px;
+}
